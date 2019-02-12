@@ -1,0 +1,8 @@
+4.71 Volts base arduino voltage
+
+500mA no resistance 
+5mA of the whole circuit
+7.35 V from the power supply
+
+3.77,3.28,2.45,33
+multiplied first row, 1st and 3rd column to get actual voltage and answer to Power management #2.
